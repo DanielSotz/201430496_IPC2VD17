@@ -1,11 +1,12 @@
-Acto primero
-Habitación blanquísima del interior de la casa de Bernarda. Muros gruesos.
-Puertas en arco con cortinas de yute rematadas con madroños y volantes. Sillas
-de anea. Cuadros con paisajes inverosímiles de ninfas o reyes de leyenda. Es
-verano. Un gran silencio umbroso se extiende por la escena. Al levantarse el
-telón está la escena sola. Se oyen doblar las campanas.
+ct prmr
 
-(Sale la Criada)
-Criada: Ya tengo el doble de esas campanas metido entre las sienes.
+Hbtcn blnqusm dl ntrr d l cs d Brnrd. Mrs gros.
+Prts n rc n crtns d yt rmtds cn mdrñs y vlnts. Slls
+d n. Cdrs cn psjs nvrsmls d nnfs rys d lynd. s
+vrn. n grn slnc mbrs s xtnd pr l scn. l lvntrs l
+tln st l scn sl. S yn dblr ls cmps.
+
+
+Crd: Y tng l dbl d ss cmpns mtd ntr ls sns.
 
 3
