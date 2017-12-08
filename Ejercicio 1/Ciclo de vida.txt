@@ -1,0 +1,32 @@
+RESUMEN CICLO DE VIDA DEL SOFTWARE
+
+1)Análisis
+Es la parte donde se analisa cada requerimiento y funciones que
+se esta solicitando en la creacion de un proyecto, 
+tomando en cuenta el tiempo de desarrollo, prioridad
+y funcionalidad para comprender lo mas posible lo que se 
+requiere y como hacerlo de forma mas optima. 
+
+2)Diseño
+Es la fase donde se crea la interfaz visual del proyecto,
+como se va mostrar cada parte para la interaccion que tendra
+el usuario final con el producto.
+
+3)Desarrollo
+Fase donde ya teniendo en cuenta que se va hacer y como se va
+a mostrar, se empieza a trabajar sobre ello y crear en si 
+la logica y programacion para hacer los diferentes procesos que
+se piden.
+
+4)Pruebas
+Es la fase donde luego de haber terminado todo el desarrollo
+logico del proyecto, se le hace pruebas para encontrar errores,
+funcionalidad, que cumplas con las condiciones minimas requeridas
+y asi poderle dar el visto bueno para salir al consumidor final.
+
+5)Implementación y Mantenimiento.
+Etapa donde el producto o proyecto se lanza para ser utilizado
+por lo usuarios o clientes finales y darle el uso para el que fue
+creado y cada cierto tiempo o cuando sea necesario revisarlo,
+actualizarlo o mejorarlo de acuerdo a los resultados y 
+opiniones de los usuarios.

@@ -1,0 +1,11 @@
+RESUMEN MODELO EN CASACADA
+
+Es el modelo mas antiguo y clasico de los existentes. 
+Donde para el desarrollo del prodoctu se van recorriendo cada
+etapa del ciclo de vida del software en orden y se necesita 
+haber hecho y terminado cada uno para pasar al siguiente
+puesto que una vez que se pasa esa etapa ya no se puede
+regresar ni tampoco saltar.
+Es un modelo que no acepta cambios y si hay errores encotrados,
+que solamente pueden ser vistos en la etapa de pruebas, se 
+implementa un rediseño.

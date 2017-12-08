@@ -1,0 +1,13 @@
+RESUMEN MODELO ITERATIVO INCREMENTAL
+
+Este modelo es lineal como el de cascada con la diferencia
+que no es rigido ya que es escalonada, puesto que se repiten 
+las etapas y en cada una se le proporciona incrementos al 
+producto, cada incremento integra nuevas funcionalidades.
+
+La primera iteracion del producto incorpora las funcionalidades
+mas importantes completamente funcionales y se sigue asi con
+todas las demas de acuerdo a las exigencias del cliente. Es un 
+buen metodo para tener una constante comunicacion con el cliente
+luego de cada fin de iteracion y asi evaluar y crear un plan 
+de desarrollo del incremento siguiente.
