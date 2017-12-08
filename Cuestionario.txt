@@ -1,0 +1,29 @@
+Qué entiende como "commit"?
+
+Los commit sirven para ir guardando los cambios que se 
+quieren al proyecto. Y cada commit tiene un titulo y 
+descripcion para diferenciarlo mas facil.
+
+
+
+¿Qué entiende como "merge"?
+
+Merge es como la fucion cuando se tienen diferentes ramas 
+o branh en un proyecto
+y asi volver a unir alguna rama con 
+la principal.
+
+
+
+¿Cuál es la diferencia entre "Pull" y "Push"?
+
+La diferencia es que push sirve para subir los commit 
+guardados en el proyecto
+a la pagina de github.
+Y pull es 
+la accion contraria, sirve para descargar los cambios hechos 
+en github
+y guardarlos en el proyecto.
+
+
+
